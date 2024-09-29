@@ -1,5 +1,5 @@
-Computational scientist and PhD student at MIT.
+Computational Scientist at Apple | Former PhD student at MIT
 
-:round_pushpin: Boston, MA
+:round_pushpin: San Fransisco, CA
 
-I write CFD solvers, usually in C++, Julia, or Python. My focus is on high performance computing and on simulating fluid flows with moving solid boundaries. 
+I develop numerical methods for partial differential equations, usually in C++, Julia, or Python. So far my work has focused on high performance computing and on simulating fluid flows with moving solid boundaries. 
